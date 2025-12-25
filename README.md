@@ -1,4 +1,4 @@
-# fixed-step-odes
+# Fixed-Step-Size-ODE-Solvers
 
 A small reference library implementing a standard set of **fixed step-size ODE integrators** across major method families.
 
