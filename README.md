@@ -1,6 +1,6 @@
 # Fixed-Step-Size-ODE-Solvers
 
-A small reference library implementing a standard set of **fixed step-size ODE integrators** across major method families.
+A small reference library implementing a standard set of **fixed step-size ODE integrators** across major method families in Python and Julia.
 
 This project is intentionally simple and explicit: methods are implemented directly from their defining order conditions and tableau formulations, without adaptivity, error control, or performance-oriented optimizations.
 
